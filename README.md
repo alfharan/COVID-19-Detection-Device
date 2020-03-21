@@ -5,7 +5,7 @@ To overcome the problem of the COVID-19 pandemic, we developed a detector based 
 1. Download database of training data, you can download at: https://bit.ly/3bgvXxa
 2. Download the code
 3. Extract the code
-4. Edit your path of training data and save directory for the result categories of label and features at preprocessing.py
+4. Edit your path of training data and save directory for the result categories of labels and features at preprocessing.py
 5. Edit your path for save train data module at train_data.py
 6. Edit your path for testing data at test_data.py
 7. Open Command Prompt
