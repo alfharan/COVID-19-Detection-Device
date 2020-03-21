@@ -38,6 +38,11 @@ plt.show()
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
+Created by:
+Name : Alan Fhajoeng Ramadhan
+From : Indonesia
+email : alfhatech.id@gmail.com
+21 March 2020
 
 
 
