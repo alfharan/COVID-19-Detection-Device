@@ -1,6 +1,6 @@
 # Created by:
 # Name : Alan Fhajoeng Ramadhan
-# From : Indonesia
+# Country : Indonesia
 # email : alfhatech.id@gmail.com
 # 21 March 2020
 
@@ -65,8 +65,9 @@ pickle_out =open("y.pickle", "wb")
 pickle.dump(y,pickle_out)
 pickle_out.close()
 
+# Delete this if you run it
 Created by:
 Name : Alan Fhajoeng Ramadhan
-From : Indonesia
+Country : Indonesia
 email : alfhatech.id@gmail.com
 21 March 2020
