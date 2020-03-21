@@ -1,6 +1,6 @@
 # Created by:
 # Name : Alan Fhajoeng Ramadhan
-# From : Indonesia
+# Country : Indonesia
 # email : alfhatech.id@gmail.com
 # 21 March 2020
 
@@ -38,9 +38,10 @@ plt.show()
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
+# Delete this if you run it
 Created by:
 Name : Alan Fhajoeng Ramadhan
-From : Indonesia
+Country : Indonesia
 email : alfhatech.id@gmail.com
 21 March 2020
 
