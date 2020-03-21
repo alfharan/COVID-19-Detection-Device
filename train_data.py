@@ -28,7 +28,7 @@ for dense_layer in dense_layers:
    for layer_size in layer_sizes:
         for conv_layer in conv_layers:
             NAME = "{}-conv-{}-nodes-{}-dense-{}".format(conv_layer, layer_size, dense_layer, int(time.time()))
-            tensorboard = TensorBoard(log_dir= r'E:\COVID-19 Detection\logs\{}'.format(NAME))
+            tensorboard = TensorBoard(log_dir= r'Your path\logs\{}'.format(NAME)) # make your logs directory path 
             print(NAME)
             model = Sequential()
 
@@ -59,7 +59,12 @@ for dense_layer in dense_layers:
             
 model.save('32x2x0-CNN.model')
 
-
+Created by:
+Name : Alan Fhajoeng Ramadhan
+From : Indonesia
+email : alfhatech.id@gmail.com
+21 March 2020
+usage : python train_data.py
 
 
 
