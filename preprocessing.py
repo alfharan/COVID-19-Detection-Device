@@ -11,7 +11,7 @@ import cv2 as cv
 import random
 import pickle
 
-DATADIR = r'E:\COVID-19 Detection\training data'
+DATADIR = r'PATH'  # your Training Data folder path
 CATEGORIES = ["covid", "normal"]
 
 for category in CATEGORIES:
@@ -65,7 +65,8 @@ pickle_out =open("y.pickle", "wb")
 pickle.dump(y,pickle_out)
 pickle_out.close()
 
-pickle_in = open("X.pickle", "rb")
-X = pickle.load(pickle_in)
-
-X[1]
+Created by:
+Name : Alan Fhajoeng Ramadhan
+From : Indonesia
+email : alfhatech.id@gmail.com
+21 March 2020
