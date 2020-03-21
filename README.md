@@ -2,7 +2,7 @@
 To overcome the problem of the COVID-19 pandemic, we developed a detector based on the Convolutional Neural Network (CNN) using X-ray images. The architecture in the CNN method is composed of 32 filters, 2 convection layers and 1 dense layer using the Python Programming language. The results of this technology trial are able to recognize the symptoms of COVID-19 accurately with an error rate reaching 9.27 e-4% and an accuracy value reaching 100%. So with this technology can make it easier to identify the symptoms of COVID-19 in patients with suspected.
 
 # INSTRUCTION
-1. Download database of training data, you can download at: https://bit.ly/3bgvXxa
+1. Download the database of training data, you can download at: https://bit.ly/3bgvXxa
 2. Download the code
 3. Extract the code
 4. Edit your path of training data and save directory for the result categories of labels and features at preprocessing.py
