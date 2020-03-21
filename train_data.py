@@ -1,6 +1,6 @@
 # Created by:
 # Name : Alan Fhajoeng Ramadhan
-# From : Indonesia
+# Country : Indonesia
 # email : alfhatech.id@gmail.com
 # 21 March 2020
 # usage : python train_data.py
@@ -59,14 +59,10 @@ for dense_layer in dense_layers:
             
 model.save('32x2x0-CNN.model')
 
+# Delete this if you run it
 Created by:
 Name : Alan Fhajoeng Ramadhan
 From : Indonesia
 email : alfhatech.id@gmail.com
 21 March 2020
 usage : python train_data.py
-
-
-
-
-
