@@ -17,4 +17,7 @@ Note : I'm using python 3.6.8 version
 # INFERENCE RESULT REVIEW
 ![Subjek positive](https://user-images.githubusercontent.com/59139641/77219970-e248f800-6b75-11ea-9978-284d5f415607.JPG) ![Subjek normal](https://user-images.githubusercontent.com/59139641/77219976-f68cf500-6b75-11ea-9416-24b1ee20d1bf.JPG)
 
+# TRAINING RESULT
+![Accuracy](https://user-images.githubusercontent.com/59139641/77543622-edd45000-6ee2-11ea-81fe-d3710979f29b.JPG) ![Loss](https://user-images.githubusercontent.com/59139641/77543662-fa58a880-6ee2-11ea-8018-76fc94733edf.JPG)
+
 You can learn about python programming at https://pythonprogramming.net/
