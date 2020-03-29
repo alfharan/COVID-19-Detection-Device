@@ -12,7 +12,7 @@ To overcome the problem of the COVID-19 pandemic, we developed a detector based 
 8. run python train_data.py
 9. run python test_data.py
 
-# Requirements
+# REQUIREMENTS
 + python 3.6.8 version
 + matplotlib 3.2.1 version
 + opencv-python 4.2.0.32 version
