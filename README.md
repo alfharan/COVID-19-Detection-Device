@@ -5,7 +5,7 @@ To overcome the problem of the COVID-19 pandemic, we developed a detector based 
 1. Download the code
 2. Extract the code
 3. Edit your path of training data and save directory for the result categories of labels and features at preprocessing.py
-4. Edit your path for save train data module at train_data.py
+4. Edit your path for saving train data module at train_data.py
 5. Edit your path for testing data at test_data.py
 6. Open Command Prompt
 7. run python preprocessing.py
